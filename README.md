@@ -1,3 +1,13 @@
+# Movie-website
+Welcome to BingeNow, a movies search website! This project is a frontend-only application built using React, designed to help users search for movies and display relevant information.
+
+# Features
+Search Bar: Quickly find movies by typing keywords in the search bar.
+
+API Integration: Fetches movie data using a movie database API.
+
+Responsive Design: Optimized for both desktop and mobile viewing.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
